@@ -3,12 +3,10 @@
 
 I will be following Alexey's ML ZoomCamp with documentation of my progress and additional information I find meantime.
 
-
-# Week 1
-- Day1
+- Week 1
   - My notebook
     - [Introduction to Machine Learning](https://github.com/tankudo/ZoomCamb_2022_HomeWork/blob/main/HomeWork_01.ipynb)
-- Day 2
+- Week 2
   - My notebook
     - [Machine Learning for Regression](https://github.com/tankudo/ZoomCamb_2022_HomeWork/blob/main/HomeWork_02.ipynb)
   - Additional information
