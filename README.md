@@ -12,8 +12,12 @@ I will be following Alexey's ML ZoomCamp with documentation of my progress and a
   - Additional information
     - [A Visual Introduction To (Almost) Everything You Should Know about Linear Regression](https://mlu-explain.github.io/linear-regression/)
 - Week 3
-  - [Machine Learning for Classification](https://github.com/tankudo/ZoomCamb_2022_HomeWork/blob/main/Homework_03.ipynb)
-<!-- - Evaluation Metrics for Classification
+  - My notebook
+    - [Machine Learning for Classification](https://github.com/tankudo/ZoomCamb_2022_HomeWork/blob/main/Homework_03.ipynb)
+- Week 4
+  - My notebook
+    - [Evaluation Metrics for Classification](https://github.com/tankudo/ZoomCamb_2022_HomeWork/blob/main/HomeWork_04.ipynb)
+<!--
 - Deploying Machine Learning Models
 - Decision Trees and Ensemble Learning
 - Neural Networks and Deep Learning
