@@ -14,7 +14,7 @@ model_ref_runner = model_ref.to_runner()
 
 svc = bentoml.Service("service", runners=[model_ref_runner])
 
-@svc.api(input=JSON(), output=NumpyNdarray())
+@svc.api(input=NumpyNdarray(), output=NumpyNdarray())
 def classify(UserProfile):
     prediction = model_ref_runner.predict.run(UserProfile)
     print("prediction = ", prediction)
