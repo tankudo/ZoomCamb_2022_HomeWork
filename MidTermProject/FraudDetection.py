@@ -22,6 +22,8 @@ from sklearn import *
 
 from sklearn.utils import resample
 import pickle
+from flask import Flask
+from flask import request
 import warnings
 warnings.filterwarnings("ignore")
 
@@ -119,6 +121,14 @@ card = {'V1': -1.377245329,
  'NormAmount': -0.299135286762843}
 print("Card: ", card)
 
-X = dv.fit_transform([card])
+app = Flask('fraud')
+@app.route('/predict', methods=['POST'] )
+def predict(card):
+    X = dv.fit_transform([card])
+    request.get_json()
+   # print("Prediction: ", rf.predict(X)[0])
+   return rf.predict(X)[0]
 
-print("Prediction: ", rf.predict(X)[0])
+if __name__=="__main__":
+    app.run(debug=True, host='0.0.0.0', port=9696)
+
