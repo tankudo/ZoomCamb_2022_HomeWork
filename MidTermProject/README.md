@@ -22,4 +22,4 @@ The given problem statement is comes under binary classification
 We have to solve problem using different machine learning algorithm as well as deep learning algorithms
 
 
-![image.png](attachment:image.png)
+<img width="1112" alt="image" src="https://user-images.githubusercontent.com/58089872/199556886-c579cd81-d879-4451-9372-aa1fc2f9cce9.png">
