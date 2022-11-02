@@ -5,8 +5,8 @@
 
 import requests
 
-
-url = "http://localhost:9696/predict"
+host = 'fraud-serving-env.eba-xus233ks.eu-west-1.elasticbeanstalk.com'
+url = f"http://{host}/predict"
 
 card = {"V1": -1.377245329,
  "V2": 0.714822534,

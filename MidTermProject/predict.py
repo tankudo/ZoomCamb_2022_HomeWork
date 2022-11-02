@@ -28,6 +28,10 @@ def predict():
         "prediction": float(rf.predict(X)[0]),
         "card type": bool(fraude)
     }
+    if fraude:
+        print("The card is ok")
+    else:
+        print("There is a fraude detected!")
     
     return jsonify(result)
 

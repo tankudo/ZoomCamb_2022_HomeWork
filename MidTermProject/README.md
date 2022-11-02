@@ -20,3 +20,6 @@ Solving method:
 
 The given problem statement is comes under binary classification
 We have to solve problem using different machine learning algorithm as well as deep learning algorithms
+
+
+![image.png](attachment:image.png)
