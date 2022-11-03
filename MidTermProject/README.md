@@ -64,6 +64,16 @@ We have to solve problem using different machine learning algorithms
 
 ### Deployment to AWS
 
+- Create enviroment
+
+``` 
+eb create fraud-serving-env 
+```
+- Terminate the enviroment
+
+```
+eb terminate fraud-serving-env
+```
 <img width="1112" alt="image" src="https://user-images.githubusercontent.com/58089872/199556886-c579cd81-d879-4451-9372-aa1fc2f9cce9.png">
 
 [Go back to table of content](#table-of-contents)
