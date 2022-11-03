@@ -37,7 +37,10 @@ I will be following Alexey's ML ZoomCamp with documentation of my progress and a
     - [BentoML](https://github.com/tankudo/ZoomCamb_2022_HomeWork/blob/main/Week_7/train%202.ipynb)
   - Additional information
       - [Connected post](https://www.linkedin.com/posts/ankudo_week-7-of-machine-learning-zoomcamp-was-activity-6990221877906423808-VGIt?utm_source=share&utm_medium=member_desktop)
-    
+- Week 8
+   - Notebooks
+      - [Neural Networks and Deep Learning synopsis](https://github.com/tankudo/ZoomCamb_2022_HomeWork/blob/main/Week_8/week_8_synopsis.ipynb)
+- [Mid term project](https://github.com/tankudo/ZoomCamb_2022_HomeWork/tree/main/MidTermProject)
     
 <!--
 - Decision Trees and Ensemble Learning
