@@ -40,10 +40,9 @@ I will be following Alexey's ML ZoomCamp with documentation of my progress and a
 - Week 8
    - Notebooks
       - [Neural Networks and Deep Learning synopsis](https://github.com/tankudo/ZoomCamb_2022_HomeWork/blob/main/Week_8/week_8_synopsis.ipynb)
+      - [HomeWork](https://github.com/tankudo/ZoomCamb_2022_HomeWork/blob/main/Week_8/HomeWork_8.ipynb)
 - [Mid term project](https://github.com/tankudo/ZoomCamb_2022_HomeWork/tree/main/MidTermProject)
     
 <!--
-- Decision Trees and Ensemble Learning
-- Neural Networks and Deep Learning
 - Serverless Deep Learning
 - Kubernetes and TensorFlow Serving -->
