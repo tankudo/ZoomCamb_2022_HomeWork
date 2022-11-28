@@ -45,7 +45,7 @@ I will be following Alexey's ML ZoomCamp with documentation of my progress and a
 - Week 9
   - Notebooks
     - [Serverless Deep Learning synopsis](https://github.com/tankudo/ZoomCamb_2022_HomeWork/blob/main/Week_9/Theory/Theory.ipynb)
-    - [HomeWork](https://github.com/tankudo/ZoomCamb_2022_HomeWork/blob/main/Week_9/HomeWork_9.ipynb
+    - [HomeWork](https://github.com/tankudo/ZoomCamb_2022_HomeWork/blob/main/Week_9/HomeWork_9.ipynb)
   - Additional information
     - [Code Evaluation With AWS Lambda and API Gateway](https://realpython.com/code-evaluation-with-aws-lambda-and-api-gateway/)
   
