@@ -42,7 +42,12 @@ I will be following Alexey's ML ZoomCamp with documentation of my progress and a
       - [Neural Networks and Deep Learning synopsis](https://github.com/tankudo/ZoomCamb_2022_HomeWork/blob/main/Week_8/week_8_synopsis.ipynb)
       - [HomeWork](https://github.com/tankudo/ZoomCamb_2022_HomeWork/blob/main/Week_8/HomeWork_8.ipynb)
 - [Mid term project](https://github.com/tankudo/ZoomCamb_2022_HomeWork/tree/main/MidTermProject)
-    
+- Week 9
+  - Notebooks
+    - [Serverless Deep Learning synopsis](https://github.com/tankudo/ZoomCamb_2022_HomeWork/blob/main/Week_9/Theory/Theory.ipynb)
+    - [HomeWork](https://github.com/tankudo/ZoomCamb_2022_HomeWork/blob/main/Week_9/HomeWork_9.ipynb
+  - Additional information
+    - [Code Evaluation With AWS Lambda and API Gateway](https://realpython.com/code-evaluation-with-aws-lambda-and-api-gateway/)
+  
 <!--
-- Serverless Deep Learning
 - Kubernetes and TensorFlow Serving -->
